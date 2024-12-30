@@ -1,0 +1,12 @@
+{
+  "name": "Woulda Coulda Shoulda",
+  "symbol": "WCS",
+  "description": "Woulda Coulda Shoulda (WCS) is a token that embodies the bittersweet regret of missed opportunities in the crypto world. It's for those moments when you watch a token pump and think, 'I woulda bought that,' or when you hold too long and mutter, 'I coulda sold at the peak.' WCS serves as a humorous reminder of the unpredictable nature of crypto markets and the importance of learning from past decisions.",
+  "image": "https://github.com/DanielChrobak/wcs/blob/main/maxresdefault.jpg?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Compressed Coil"
+    }
+  ]
+}
